@@ -33,8 +33,8 @@ I am a Senior Staff Solution Architect working on the VMware Cloud team within t
 </a>
 
 <!-- vGhetto Script Repo -->
-<a href="https://github.com/lamw/vghetto-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vghetto-scripts&theme=radical" />
+<a href="https://github.com/lamw/vmware-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-scripts&theme=radical" />
 </a>
 
 <!-- VMworld 2019 Sessions Repo -->
