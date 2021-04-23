@@ -59,12 +59,12 @@ I am a Senior Staff Solution Architect working on the VMware Cloud team within t
 
 <!-- vSphere w/K8s Lab Reop -->
 <a href="https://github.com/lamw/vghetto-vsphere-with-kubernetes-external-nsxt-automated-lab-deployment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vghetto-vsphere-with-kubernetes-external-nsxt-automated-lab-deployment&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vsphere-with-tanzu-nsxt-automated-lab-deployment&theme=radical" />
 </a>
 
 <!-- vSphere Lab Reop -->
 <a href="https://github.com/lamw/vghetto-vsphere-automated-lab-deployment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vghetto-vsphere-automated-lab-deployment&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vsphere-automated-lab-deployment&theme=radical" />
 </a>
 
 <!-- Stats Counter --->
