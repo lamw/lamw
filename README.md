@@ -1,7 +1,7 @@
 
 ## About Me
 
-I am a Senior Staff Solution Architect in the VMware Cloud team within the Cloud Services Business Unit (CSBU) at VMware. I focus on Automation, Integration and Operation for the VMware Cloud based Software Defined Datacenters (SDDC). One of my primary responsibility is driving VMware Cloud's (VMC) Customer[0] initiative and helping provide early feedback on the usability, design and architecture of new VMC features and capabilities. I work closely with Engineering & Product Management on developing new ideas and integrations to VMC which extend into our on-premises customers. Lastly, through customer interactions I continue champion their challenges and needs to help further improve VMware’s products and services.
+I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Division Broadcom. I focus on Automation, Integration and Operation for the VMware Cloud based Software Defined Datacenters (SDDC). One of my primary responsibility is driving VMware Cloud's (VMC) Customer[0] initiative and helping provide early feedback on the usability, design and architecture of new VMC features and capabilities. I work closely with Engineering & Product Management on developing new ideas and integrations to VMC which extend into our on-premises customers. Lastly, through customer interactions I continue champion their challenges and needs to help further improve VMware’s products and services.
 
 ## Contact
 
