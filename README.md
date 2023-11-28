@@ -37,9 +37,9 @@ I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Divi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-scripts&theme=radical" />
 </a>
 
-<!-- VMworld 2019 Sessions Repo -->
-<a href="https://github.com/lamw/vmworld2019-session-urls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmworld2019-session-urls&theme=radical" />
+<!-- VMworld 2023 Sessions Repo -->
+<a href="https://github.com/lamw/vmware-explore-2023-session-urls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-explore-2023-session-urls&theme=radical" />
 </a>
 
 <!-- Homelab Repo -->
