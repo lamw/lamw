@@ -1,7 +1,7 @@
 
 ## About Me
 
-I am a Distinguished Platform Engineering Architect in the VMware Cloud Foundation (VCF) Division at Broadcom. I primarily focus on Cloud Native technologies, Automation, Integration and Operation for both VMware vSphere Foundation (VVF) & VMware Cloud Foundation (VCF). One of my primary responsibilities is driving VMware's Customer[0] organization and co-developing products and services with both Product and Engineering leaders, by providing early feedback on the usability, design and architecture across VMware's Private, Hybrid and Public Cloud offerings. Lastly, through customer interactions I continue to champion their challenges and needs to help further improve VMware’s products and services.
+I am a Distinguished Platform Engineering Architect in the VMware Cloud Foundation (VCF) Division at Broadcom. My primary focus is helping customers and partners build, run and operate a modern Private Cloud using either VMware vSphere Foundation (VVF) or VMware Cloud Foundation (VCF). One of my primary responsibilities is driving VMware's Customer[0] organization and co-developing products and services with both Product and Engineering leaders, by providing early feedback on the usability, design and architecture across VMware's Private, Hybrid and Public Cloud offerings. Lastly, through customer interactions I continue to champion their challenges and needs to help further improve VMware’s products and services.
 
 ## Contact
 
