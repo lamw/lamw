@@ -1,7 +1,7 @@
 
 ## About Me
 
-I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Division Broadcom. I focus on Automation, Integration and Operation for the VMware Cloud based Software Defined Datacenters (SDDC). One of my primary responsibility is driving VMware Cloud's (VMC) Customer[0] initiative and helping provide early feedback on the usability, design and architecture of new VMC features and capabilities. I work closely with Engineering & Product Management on developing new ideas and integrations to VMC which extend into our on-premises customers. Lastly, through customer interactions I continue champion their challenges and needs to help further improve VMware’s products and services.
+I am a Distinguished Platform Engineering Architect in the VMware Cloud Foundation (VCF) Division at Broadcom. I primarily focus on Cloud Native technologies, Automation, Integration and Operation for both VMware vSphere Foundation (VVF) & VMware Cloud Foundation (VCF). One of my primary responsibilities is driving VMware's Customer[0] organization and co-developing products and services with both Product and Engineering leaders, by providing early feedback on the usability, design and architecture across VMware's Private, Hybrid and Public Cloud offerings. Lastly, through customer interactions I continue to champion their challenges and needs to help further improve VMware’s products and services.
 
 ## Contact
 
@@ -37,9 +37,9 @@ I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Divi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-scripts&theme=radical" />
 </a>
 
-<!-- VMworld 2023 Sessions Repo -->
-<a href="https://github.com/lamw/vmware-explore-2023-session-urls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-explore-2023-session-urls&theme=radical" />
+<!-- VMworld 2024 Sessions Repo -->
+<a href="https://github.com/lamw/vmware-explore-2024-session-urls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vmware-explore-2024-session-urls&theme=radical" />
 </a>
 
 <!-- Homelab Repo -->
@@ -47,7 +47,17 @@ I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Divi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=homelab&theme=radical" />
 </a>
 
-<!-- VEBA Reop -->
+<!-- VCF Lab Repo -->
+<a href="https://github.com/lamw/vcf-automated-lab-deployment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vcf-automated-lab-deployment&theme=radical" />
+</a>
+
+<!-- vSphere Lab Repo -->
+<a href="https://github.com/lamw/vghetto-vsphere-automated-lab-deployment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vsphere-automated-lab-deployment&theme=radical" />
+</a>
+
+<!-- VEBA Repo -->
 <a href="https://github.com/vmware-samples/vcenter-event-broker-appliance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vmware-samples&repo=vcenter-event-broker-appliance&theme=radical" />
 </a>
@@ -55,16 +65,6 @@ I am a Senior Staff Solution Architect in the VMware Cloud Foundation (VCF) Divi
 <!-- vCenter Event Mapping Repo -->
 <a href="https://github.com/lamw/vcenter-event-mapping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vcenter-event-mapping&theme=radical" />
-</a>
-
-<!-- vSphere w/K8s Lab Reop -->
-<a href="https://github.com/lamw/vghetto-vsphere-with-kubernetes-external-nsxt-automated-lab-deployment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vsphere-with-tanzu-nsxt-automated-lab-deployment&theme=radical" />
-</a>
-
-<!-- vSphere Lab Reop -->
-<a href="https://github.com/lamw/vghetto-vsphere-automated-lab-deployment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=vsphere-automated-lab-deployment&theme=radical" />
 </a>
 
 <!-- Stats Counter --->
